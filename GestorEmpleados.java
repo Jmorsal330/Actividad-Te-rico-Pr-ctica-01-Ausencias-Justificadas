@@ -5,7 +5,7 @@ import java.util.HashMap;
  * Clase que Gestiona los empleados con metodos como agregar, buscar y eliminar empleados.
  * 
  * @author Javier Moreno Salas
- * @version 0.1
+ * @version 1.0
  */
 public class GestorEmpleados {
 
@@ -82,7 +82,7 @@ public class GestorEmpleados {
      * 
      * 
      * @author Javier Moreno Salas
-     * @version 0.1
+     * @version 1.0
      */
     public static class Empleado {
         private String id;
