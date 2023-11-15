@@ -90,7 +90,7 @@ public class GestorEmpleados {
         private double salarioBase;
 
         /**
-         * Contuctor de empleado
+         * Constructor de empleado
          * 
          * @param id - id de empleado
          * @param nombre - nombre de empleado
