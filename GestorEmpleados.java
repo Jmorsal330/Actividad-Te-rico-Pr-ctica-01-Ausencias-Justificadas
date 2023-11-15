@@ -104,7 +104,7 @@ public class GestorEmpleados {
 
 
         /**
-         * Calcular el salario
+         * Calcular el salario base
          * 
          * @return devuelve el salario base
          */
