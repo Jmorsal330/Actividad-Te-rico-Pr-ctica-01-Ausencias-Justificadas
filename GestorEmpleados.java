@@ -108,6 +108,7 @@ public class GestorEmpleados {
          */
         public double calcularSalario() {
             // Lógica para calcular el salario
+            // Más código
             return salarioBase;
         }
     }
